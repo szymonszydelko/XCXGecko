@@ -1,5 +1,5 @@
 Funds Modifier [danmc]
-1C39AD90 05F5E0FF
+1C39AD90 05F690FF
 
 Miranium Modifier [danmc]
 1C39AD94 000F423F
@@ -41,7 +41,7 @@ Protagonist Rank Exp [danmc]
 1C38E6F4 7FFF
 
 Protagonist BP [danmc]
-1C38E93C 0000270F
+1C38E93C 0000D70F
 
 Protagonist Height (float) [Ailuros27]
 1C38E630 3F8020C4

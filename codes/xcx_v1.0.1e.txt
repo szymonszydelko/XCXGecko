@@ -1,8 +1,8 @@
 Funds Modifier [danmc]
-1C39AD90 05F690FF
+1C3A7D90 05F5E0FF
 
 Miranium Modifier [danmc]
-1C39AD94 000F423F
+1C3A7D94 000F423F
 
 Reward Tickets Modifier [danmc]
 1C39AD98 0000270F
@@ -41,7 +41,7 @@ Protagonist Rank Exp [danmc]
 1C38E6F4 7FFF
 
 Protagonist BP [danmc]
-1C38E93C 0000D70F
+1C39B93C 0000D70F
 
 Protagonist Height (float) [Ailuros27]
 1C38E630 3F8020C4
@@ -183,7 +183,7 @@ Gwin Rank Exp [danmc]
 1C390260 7FFF
 
 Gwin BP [danmc]
-1C3904A8 0000270F
+1C39D4A8 0000270F
 
 Gwin Affinity [MiMiC]
 1C3906AE 32
@@ -241,7 +241,7 @@ Doug Rank Exp [danmc]
 1C390D58 7FFF
 
 Doug BP [danmc]
-1C390FA0 0000270F
+1C39DFA0 0000270F
 
 Doug Affinity [MiMiC]
 1C3911A6 32
@@ -444,7 +444,7 @@ Irina Rank Exp [danmc]
 1C3933BC 7FFF
 
 Irina BP [danmc]
-1C393604 0000270F
+1C3A0604 0000270F
 
 Irina Affinity [MiMiC]
 1C39380A 32
@@ -596,26 +596,26 @@ Precious Resources: Slot 100 [MiMiC]
 
 
 Data Probes: Slot 001 [MiMiC]
-1C3BD65C 63 >>21
+1C3CA65C 63 >>21
 
 Data Probes: Slot 100 [MiMiC]
-1C3BDB00 63 >>21
+1C3CAB00 63 >>21
 
 
 
 Collectibles: Slot 001 [MiMiC]
-1C3BDB0C 63 >>21
+1C3CAB0C 63 >>21
 
 Collectibles: Slot 300 [MiMiC]
-1C3BE910 63 >>21
+1C3CB910 63 >>21
 
 
 
 Important Items: Slot 001 [MiMiC]
-1C3BE91C 63 >>21
+1C3CB91C 63 >>21
 
 Important Items: Slot 500 [MiMiC]
-1C3C0080 63 >>21
+1C3CD080 63 >>21
 
 
 
